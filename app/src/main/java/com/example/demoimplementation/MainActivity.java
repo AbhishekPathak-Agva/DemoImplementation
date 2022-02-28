@@ -12,8 +12,8 @@ import java.util.HashMap;
 
 public class MainActivity extends AppCompatActivity  {
     private TextView tv_Timer;
-    private LinearLayoutCompat;
-    private LinearLayout;
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
